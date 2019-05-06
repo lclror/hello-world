@@ -5,3 +5,11 @@ function squire(x) {
 function cute(x) {
 	return x * x * x
 }
+
+//create bugFeature1 branch fixed some bug inhere
+
+function foo(fun1, fun2) {
+	const result1 = fun1(2)
+	const result2 = fun1(2)
+	return result1 + result2
+}
