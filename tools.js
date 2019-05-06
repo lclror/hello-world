@@ -19,3 +19,6 @@ function foo(fun1, fun2) {
 
 //合并commit 测试， 新建commit-m02,重做这次提交
 // code content...
+
+//合并commit 冲突测试， 新建commit-m03
+// code content...
