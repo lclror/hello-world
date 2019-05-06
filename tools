@@ -1,3 +1,7 @@
 function squire(x) {
   return x * x
 }
+
+function cute(x) {
+	return x * x * x
+}
