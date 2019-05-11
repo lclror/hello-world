@@ -23,3 +23,11 @@ function foo(fun1, fun2) {
 function baz() {
 	console.log('改变HEAD测试02')
 }
+
+function foo01() {
+	console.log('add test: squshfoo01')
+}
+
+function foo02() {
+	console.log('add test: squshfoo02')
+}
