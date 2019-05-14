@@ -31,3 +31,5 @@ function foo01() {
 function foo02() {
 	console.log('add test: squshfoo02')
 }
+
+const str1 = 'rebase test01'
