@@ -32,4 +32,4 @@ function foo02() {
 	console.log('add test: squshfoo02')
 }
 
-const str1 = 'rebase test01'
+const str1 = 'rebase test01-02'
