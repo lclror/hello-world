@@ -33,3 +33,5 @@ function foo02() {
 }
 
 const str1 = 'rebase test01-02'
+
+var aaa = 123
